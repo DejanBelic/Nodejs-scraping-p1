@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-scraping-p1",
+  "version": "1.0.0",
+  "description": "Nodejs scraping project 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DejanBelic/Nodejs-scraping-p1.git"
+  },
+  "author": "Dejan Belic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DejanBelic/Nodejs-scraping-p1/issues"
+  },
+  "homepage": "https://github.com/DejanBelic/Nodejs-scraping-p1#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^1.15.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
